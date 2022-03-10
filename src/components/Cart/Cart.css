@@ -1,0 +1,11 @@
+.cart-container{
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+    padding: 20px;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 5px;
+    box-shadow: 5px 10px 5px rgba(175, 175, 175, 0.328);
+}
+.summery{
+    text-decoration: underline;
+}

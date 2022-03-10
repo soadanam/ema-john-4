@@ -1,0 +1,15 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    max-width: 80%;
+    margin: auto;
+}
+.shop-products{
+    border-right: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 50px;
+}
+.shop-cart{
+    /* margin: 5px; */
+    /* background-color: burlywood; */
+}
